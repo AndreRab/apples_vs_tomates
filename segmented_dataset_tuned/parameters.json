@@ -1,0 +1,17 @@
+{
+  "lab": {
+    "border_ratio": 0.02,
+    "threshold_factor": 1.2,
+    "morph_ratio": 0.02
+  },
+  "hybrid": {
+    "min_area": 0.015,
+    "color_support_threshold": 0.6,
+    "shape_threshold": 0.5
+  },
+  "slic_rag": {
+    "n_segments": 250,
+    "compactness": 5,
+    "merge_threshold": 25
+  }
+}

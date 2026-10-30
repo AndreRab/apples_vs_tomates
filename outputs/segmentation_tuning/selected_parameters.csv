@@ -1,0 +1,4 @@
+method,candidate,params,baseline_cv,selected_cv,delta_pp
+lab,4,"{""border_ratio"": 0.02, ""threshold_factor"": 1.2, ""morph_ratio"": 0.02}",0.6873387096774194,0.7187748138957816,3.143610421836218
+hybrid,7,"{""min_area"": 0.015, ""color_support_threshold"": 0.6, ""shape_threshold"": 0.5}",0.6817143300248139,0.7170691687344913,3.5354838709677483
+slic_rag,6,"{""n_segments"": 250, ""compactness"": 5, ""merge_threshold"": 25}",0.7200350496277916,0.7260483870967742,0.6013337468982582
