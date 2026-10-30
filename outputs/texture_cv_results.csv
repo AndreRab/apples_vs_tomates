@@ -1,0 +1,4 @@
+features,cv_balanced_accuracy,cv_std,params
+LBP + GLCM,0.7119714640198511,0.03285610845176009,"{'svm__C': 100, 'svm__gamma': 'scale'}"
+GLCM,0.7002651985111663,0.05440388896323913,"{'svm__C': 100, 'svm__gamma': 'scale'}"
+LBP,0.6888573200992556,0.07700692584489369,"{'svm__C': 10, 'svm__gamma': 'scale'}"
